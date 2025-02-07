@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shashiv367/LeetCode/tree/master/0015-3sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiv367/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -23,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashiv367/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/shashiv367/LeetCode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +41,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashiv367/LeetCode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/shashiv367/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
