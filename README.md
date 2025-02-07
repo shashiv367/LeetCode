@@ -19,4 +19,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiv367/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shashiv367/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shashiv367/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
