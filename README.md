@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0016-3sum-closest](https://github.com/shashiv367/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashiv367/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashiv367/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/shashiv367/LeetCode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/shashiv367/LeetCode/tree/master/0053-maximum-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/shashiv367/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/shashiv367/LeetCode/tree/master/3321-type-of-triangle) |
@@ -48,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashiv367/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shashiv367/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shashiv367/LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/shashiv367/LeetCode/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -107,4 +109,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/shashiv367/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shashiv367/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shashiv367/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
