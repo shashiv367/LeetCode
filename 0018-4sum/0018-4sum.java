@@ -1,40 +1,29 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-       List<List<Integer>> res = new ArrayList<>();
-       Arrays.sort(nums);
-       HashSet<String> hs = new HashSet<>();
-
-       for(int i =0;i<nums.length-3;i++){
-            for(int j =i+1;j<nums.length-2;j++){
-                int ri = nums.length-1;
-                int li = j+1;
-                while(li<ri){
-                    long sum =0;
-                    sum+=nums[i];
-                    sum+=nums[j];
-                    sum+=nums[li];
-                    sum+=nums[ri];
-                    if(sum>target){
-                        ri--;
-                    }else if(sum<target){
-                        li++;
-                    }else{
-                        StringBuilder sb = new StringBuilder();
-                        sb.append(nums[i]);
-                        sb.append(nums[j]);
-                        sb.append(nums[li]);
-                        sb.append(nums[ri]);
-                        String match = sb.toString();
-                        if(hs.contains(match)==false){
-                            hs.add(match);
-                            res.add(Arrays.asList(nums[i], nums[j], nums[li], nums[ri]));
-                        }
-                        ri--;
-                        li++;   
+        Arrays.sort(nums);
+        int n = nums.length;
+        List<List<Integer>> ans = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            for (int j = i + 1; j < n; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) continue;
+                long comp = (long)target - (nums[i] + nums[j]);
+                int k = j + 1, l = n - 1;
+                while (k < l) {
+                    if (nums[k] + nums[l] == comp) {
+                        ans.add(Arrays.asList(nums[i], nums[j], nums[k], nums[l]));
+                        while (k < l && nums[k] == nums[k + 1]) k++;
+                        while (k < l && nums[l] == nums[l - 1]) l--;
+                        k++;
+                        l--;
+                    } else if (nums[k] + nums[l] > comp) {
+                        l--;
+                    } else {
+                        k++;
                     }
                 }
             }
-       }
-       return res;
+        }
+        return ans;
     }
 }
