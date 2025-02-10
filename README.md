@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashiv367/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/shashiv367/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/shashiv367/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiv367/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashiv367/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/shashiv367/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shashiv367/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/shashiv367/LeetCode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
