@@ -45,6 +45,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashiv367/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shashiv367/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shashiv367/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/shashiv367/LeetCode/tree/master/0258-add-digits) |
 ## Recursion
