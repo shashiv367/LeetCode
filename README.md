@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0037-sudoku-solver](https://github.com/shashiv367/LeetCode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/shashiv367/LeetCode/tree/master/0053-maximum-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/shashiv367/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/shashiv367/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shashiv367/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/shashiv367/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
