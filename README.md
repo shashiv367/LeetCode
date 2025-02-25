@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashiv367/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/shashiv367/LeetCode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/shashiv367/LeetCode/tree/master/0053-maximum-subarray) |
+| [0828-chalkboard-xor-game](https://github.com/shashiv367/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/shashiv367/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/shashiv367/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shashiv367/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -66,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/shashiv367/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shashiv367/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/shashiv367/LeetCode/tree/master/0258-add-digits) |
+| [0828-chalkboard-xor-game](https://github.com/shashiv367/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [1610-xor-operation-in-an-array](https://github.com/shashiv367/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shashiv367/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/shashiv367/LeetCode/tree/master/3321-type-of-triangle) |
@@ -124,5 +126,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/shashiv367/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [1610-xor-operation-in-an-array](https://github.com/shashiv367/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/shashiv367/LeetCode/tree/master/0828-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/shashiv367/LeetCode/tree/master/0828-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
