@@ -11,10 +11,9 @@
 class Solution {
     public int getDecimalValue(ListNode head) {
         StringBuilder sb=new StringBuilder();
-        ListNode temp=head;
-        while(temp!=null){
-            sb.append(temp.val);
-            temp=temp.next;
+        while(head!=null){
+            sb.append(head.val);
+            head=head.next;
         }
         int decimal = Integer.parseInt(sb.toString(), 2);
         return decimal;
