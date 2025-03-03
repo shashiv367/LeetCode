@@ -61,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashiv367/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shashiv367/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiv367/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shashiv367/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0189-rotate-array](https://github.com/shashiv367/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shashiv367/LeetCode/tree/master/0258-add-digits) |
 | [0828-chalkboard-xor-game](https://github.com/shashiv367/LeetCode/tree/master/0828-chalkboard-xor-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiv367/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/shashiv367/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shashiv367/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/shashiv367/LeetCode/tree/master/3321-type-of-triangle) |
