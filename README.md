@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0189-rotate-array](https://github.com/shashiv367/LeetCode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiv367/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/shashiv367/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shashiv367/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashiv367/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shashiv367/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shashiv367/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
