@@ -1,36 +1,34 @@
 public class Solution {
     public String longestPalindrome(String s) {
-        if (s.length() <= 1) {
-            return s;
+        StringBuilder sb = new StringBuilder("^#");
+        for (char c : s.toCharArray()) {
+            sb.append(c).append("#");
         }
-
-        int maxLen = 1;
-        String maxStr = s.substring(0, 1);
-
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = i + maxLen; j <= s.length(); j++) {
-                if (j - i > maxLen && isPalindrome(s.substring(i, j))) {
-                    maxLen = j - i;
-                    maxStr = s.substring(i, j);
-                }
+        sb.append("$");
+        String T = sb.toString();
+        
+        int n = T.length();
+        int[] P = new int[n];
+        int C = 0, R = 0;
+        
+        for (int i = 1; i < n-1; i++) {
+            P[i] = (R > i) ? Math.min(R - i, P[2*C - i]) : 0;
+            while (T.charAt(i + 1 + P[i]) == T.charAt(i - 1 - P[i]))
+                P[i]++;
+            
+            if (i + P[i] > R) {
+                C = i;
+                R = i + P[i];
             }
         }
-
-        return maxStr;
-    }
-
-    private boolean isPalindrome(String str) {
-        int left = 0;
-        int right = str.length() - 1;
-
-        while (left < right) {
-            if (str.charAt(left) != str.charAt(right)) {
-                return false;
+        
+        int max_len = 0, center_index = 0;
+        for (int i = 0; i < n; i++) {
+            if (P[i] > max_len) {
+                max_len = P[i];
+                center_index = i;
             }
-            left++;
-            right--;
         }
-
-        return true;
+        return s.substring((center_index - max_len) / 2, (center_index + max_len) / 2);
     }
 }
