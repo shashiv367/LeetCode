@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashiv367/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shashiv367/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shashiv367/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashiv367/LeetCode/tree/master/0018-4sum) |
@@ -26,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashiv367/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shashiv367/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shashiv367/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/shashiv367/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/shashiv367/LeetCode/tree/master/0012-integer-to-roman) |
@@ -100,6 +102,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashiv367/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shashiv367/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/shashiv367/LeetCode/tree/master/0053-maximum-subarray) |
 ## Binary Search
