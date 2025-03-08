@@ -167,16 +167,23 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shashiv367/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shashiv367/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shashiv367/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shashiv367/LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shashiv367/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shashiv367/LeetCode/tree/master/0100-same-tree) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashiv367/LeetCode/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shashiv367/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
