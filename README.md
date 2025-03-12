@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0015-3sum](https://github.com/shashiv367/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shashiv367/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashiv367/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shashiv367/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashiv367/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shashiv367/LeetCode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiv367/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -69,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashiv367/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shashiv367/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shashiv367/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shashiv367/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiv367/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
