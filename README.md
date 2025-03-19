@@ -33,6 +33,7 @@
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +59,5 @@
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
