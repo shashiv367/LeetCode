@@ -32,6 +32,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,13 +42,19 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
