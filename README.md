@@ -32,6 +32,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
+| [0780-max-chunks-to-make-sorted](https://github.com/shashiv367/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Two Pointers
@@ -43,6 +44,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
+| [0780-max-chunks-to-make-sorted](https://github.com/shashiv367/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Sorting
@@ -50,6 +52,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
+| [0780-max-chunks-to-make-sorted](https://github.com/shashiv367/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Counting Sort
 |  |
@@ -60,4 +63,12 @@
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/shashiv367/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/shashiv367/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
