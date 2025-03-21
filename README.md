@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shashiv367/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shashiv367/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -42,6 +43,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shashiv367/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/shashiv367/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shashiv367/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/shashiv367/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shashiv367/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
