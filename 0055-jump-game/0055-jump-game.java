@@ -7,7 +7,6 @@ class Solution {
                 goal = i;
             }
         }
-
         return goal == 0;        
     }
 }
