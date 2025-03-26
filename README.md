@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shashiv367/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shashiv367/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shashiv367/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shashiv367/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shashiv367/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -95,5 +97,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shashiv367/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shashiv367/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
