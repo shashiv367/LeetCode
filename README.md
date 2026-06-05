@@ -37,6 +37,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1480-running-sum-of-1d-array](https://github.com/shashiv367/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/shashiv367/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/shashiv367/LeetCode/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/shashiv367/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/shashiv367/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [1013-fibonacci-number](https://github.com/shashiv367/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1512-number-of-good-pairs](https://github.com/shashiv367/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shashiv367/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Stack
 |  |
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shashiv367/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/shashiv367/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
