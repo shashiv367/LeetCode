@@ -36,6 +36,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/shashiv367/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/shashiv367/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shashiv367/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1480-running-sum-of-1d-array](https://github.com/shashiv367/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +100,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashiv367/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shashiv367/LeetCode/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shashiv367/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
